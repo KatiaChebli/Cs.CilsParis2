@@ -1,0 +1,16 @@
+/*
+Theme Name: Astra child
+Theme URI: https://github.com/KatiaChebli/astra-child
+Author: Katia Chebli
+Author URI: https://github.com/KatiaChebli
+Description: Thème enfant de astra.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra-child
+Template: astra
+*/
+
+body {
+    background-color: antiquewhite;
+}
